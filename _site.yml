@@ -6,4 +6,6 @@ navbar:
       href: index.html
     - text: "Meetup Guidelines"
       href: 1-guidelines.html
+    - text: "Local Events"
+      href: 2-localevents.html
     

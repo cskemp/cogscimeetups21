@@ -3,7 +3,6 @@ title: "Meetup Guidelines"
 output: html_document
 ---
 
-
 <style type="text/css">
 .title {
   display: none;
@@ -15,14 +14,34 @@ output: html_document
 
 </style>
 
-<div class="row" style="padding-top: 91px;">
-<div class="col-sm-6">
+<div class="row" style="padding-top: 10px;">
 
-## Guidelines
+### Meetup Guidelines
 
-Will be expected to respect Code of Conduct
+Each meetup group is expected to follow local policies related to COVID-19. For example, this may include policies that limit the total number of attendees or require contact details to be gathered in case they are needed for contact tracing. The meetup organizer is responsible for finding out about relevant local policies and making sure that they are followed.
+
+Each meetup group should be carried out under the Code of Conduct described below. The meetup organizer is responsible for communicating this code of conduct to attendees and upholding it during the event.
+
+### Code of Conduct
+
+Meetup groups are open to all and should  provide an environment in which diverse participants may learn, network, and enjoy the company of colleagues. All forms of harassment are prohibited, and specific prohibited behaviors include but are not limited to the following:
+
+* Harassment or intimidation based on gender, gender identity, gender expression, age, sexual orientation, disability, appearance, body size, race, ethnicity, political orientation and views, religion (or lack thereof), or other group status
+* Unwelcome behavior or comments related to the above categories that create a hostile environment (e.g., sexist or racist jokes)
+* Sexual harassment or intimidation, including unwelcome sexual attention
+* Harassing photography or recording
+* Stalking
+* Advocating for, or encouraging, any of the above behavior
+
+
+#### Enforcement
+Any attendee asked to stop harassing behavior or other behavior in violation of the Code of Conduct is expected to comply immediately.  The meetup organizer reserves the right to take actions in order to keep the event a welcoming environment for all participants. These actions may range from simply warning the offender to asking that person to leave.
+
+
+#### Reporting
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please report this to the meetup organizer immediately.   You can make a report either personally or by emailing your report to the organizer (contact details will be available on the local meetup page)
+
 
 </div>
-<div class="col-sm-6">
 
 

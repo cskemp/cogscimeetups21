@@ -1,0 +1,35 @@
+---
+title: "Local Events"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 10px;">
+
+### Local CogSci Events
+
+Disruptions due to COVID-19 provide an opportunity to think carefully about what the CogSci conference might look like in the future. One possible change is to hold local events around the world in conjunction with the gathering at the main conference site. 
+Local events may be especially important for members who would be otherwise unable to participate, including early career researchers, researchers without travel funding, international researchers, and researchers who cannot travel because of professional or family obligations. Local events may also provide one way to reduce the environmental impact of the conference.
+
+The meetup groups this year are a simple place to start, but in future years we might consider regional in-person conference hubs that are connected to each other and to the main conference site. A discussion of this possibility is available in:
+
+* Sarabipour, Sarvenaz, et al. (2021). [Changing scientific meetings for the better]( https://www.biorxiv.org/content/10.1101/2020.04.02.022079v4 ) . Nature Human Behaviour.
+
+The [Photonics Online Meetup]( http://photonicsonlinemeetup.org/ ) is one example of a  successful event involving local hubs. For more information see:
+
+* Reshef et al (2020), [How to organize an online conference]( https://arxiv.org/abs/2003.03219 ), Nature Reviews Materials. 
+
+If you have ideas about future local events, please contact  [Dave Barner](  http://www.ladlab.com/barner ), [Stephanie Denison](  https://uwaterloo.ca/psychology/people-profiles/stephanie-denison ) or [Charles Kemp]( http://charleskemp.com ).   
+</div>
+
+
