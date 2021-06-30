@@ -1,0 +1,9 @@
+name: "CogSci 2021 Meetups"
+navbar:
+  title: "CogSci 2021 Meetups"
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "Meetup Guidelines"
+      href: 1-guidelines.html
+    

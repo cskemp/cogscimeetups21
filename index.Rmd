@@ -1,0 +1,37 @@
+---
+title: "Meetup Groups for CogSci 2021"
+output: html_document
+---
+
+<style type="text/css">
+
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 91px;">
+<div class="col-sm-6">
+
+Where local conditions permit, several members of the society will be organizing meetup groups in conjunction with
+[CogSci 2021](  https://cognitivesciencesociety.org/cogsci-2021/ ). The goal is to build community and to facilitate interactions between cognitive scientists who live in the same city. Currently events are planned in:
+
+* [Hong Kong](hongkong.html)  ( organizer [Janet Hsiao]( http://web.hku.hk/~jhsiao/ ) )
+* [Melbourne]( melbourne.html)  ( organizer [Charles Kemp]( http://charleskemp.com ) )
+* [Singapore](singapore.html)  ( organizer [Desmond Ong ](  http://www.comp.nus.edu.sg/~dongch ) )
+
+If you'd like to attend the meetup in one of these places, please follow the relevant link above for more details. If you don't live in one of these places and would like to organize a meetup group in your own city, please contact Charles Kemp at `c.kemp@unimelb.edu.au`. All meetups are expected to follow the guidelines outlined  
+[here](1-guidelines.html).
+
+This webpage was developed by a Meetup Planning Group consisting of [Dave Barner](  http://www.ladlab.com/barner ), [Stephanie Denison](  https://uwaterloo.ca/psychology/people-profiles/stephanie-denison ) and [Charles Kemp]( http://charleskemp.com ). Please get in touch with any one of us if you have ideas to share. 
+
+</div>
+<div class="col-sm-6">
+
+![](images/meetup_map_tall.png)
+<!-- mapcustomizer.com --> 
