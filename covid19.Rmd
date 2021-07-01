@@ -1,0 +1,31 @@
+---
+title: "Meetup Guidelines"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 10px;">
+
+### COVID-19 Guidelines 
+
+Each meetup group is expected to follow local policies related to COVID-19. This may include policies that:
+
+* require an on-campus event to be registered with the host university
+* require attendees to supply contact details for contact tracing if needed 
+* limit the total number of attendees
+
+The meetup organizer is responsible for finding out about relevant local policies and making sure that they are followed. If a local outbreak emerges, it may turn out that a meetup group is unable to go ahead.
+
+</div>
+
+

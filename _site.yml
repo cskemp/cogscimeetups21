@@ -4,8 +4,10 @@ navbar:
   left:
     - text: "Overview"
       href: index.html
-    - text: "Meetup Guidelines"
-      href: 1-guidelines.html
-    - text: "Local Events"
-      href: 2-localevents.html
+    - text: "Meetup Format"
+      href: meetupformat.html
+    - text: "COVID-19 Guidelines"
+      href: covid19.html
+    - text: "Code of Conduct"
+      href: codeofconduct.html
     

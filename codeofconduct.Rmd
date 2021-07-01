@@ -16,10 +16,6 @@ output: html_document
 
 <div class="row" style="padding-top: 10px;">
 
-### Meetup Guidelines
-
-Each meetup group is expected to follow local policies related to COVID-19. For example, this may include policies that limit the total number of attendees or require contact details to be gathered in case they are needed for contact tracing. The meetup organizer is responsible for finding out about relevant local policies and making sure that they are followed.
-
 Each meetup group should be carried out under the Code of Conduct described below. The meetup organizer is responsible for communicating this code of conduct to attendees and upholding it during the event.
 
 ### Code of Conduct

@@ -1,0 +1,53 @@
+---
+title: "Meetup Structure"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 10px;">
+
+
+Disruptions due to COVID-19 provide an opportunity to think carefully about what the CogSci conference might look like in the future. One possible change is to hold local events around the world in conjunction with the gathering at the main conference site.  Local events may be especially important for members who would be otherwise unable to participate, including early career researchers, researchers without travel funding, international researchers, and researchers who cannot travel because of professional or family obligations. Local events may also provide one way to reduce the environmental impact of the conference.
+
+#### 2021 meetups
+
+The format and structure of each meetup is at the discretion of the local organizer -- different models might work well in different places and may afford an opportunity for experimentation and innovation. Below are some possible options that can be adjusted as needed. 
+
+* **When**: Might be a single day during the conference -- e.g. July 26 or July 27, or any of a combination of conference days. 
+
+* **Who**: A meetup group will be open to all -- no conference registration required unless the attendee is presenting work at the central conference, in which case they will register like other remote attendees. Each group targets a single city, but people who live elsewhere are also welcome to attend.
+
+* **Why**: To facilitate face-to-face interactions and build community among local researchers and students with an interest in cognitive science.
+
+* **What**: Each meetup will include an academic component, a social component, or both. The academic  component could be a poster session or talk in which attendees present their work in person (i.e. the same work that they’ll also be presenting at the main conference). These presentations could be made available in advance of the session using a YouTube playlist curated by the group organizer. The social component might be a lunch or dinner at a nearby restaurant).  
+  
+  Depending on timezones and other constraints, additional activities may be possible, including:  
+    - A local session in which content from the main conference (e.g. plenary talks) is streamed locally
+    - A satellite session involving material that won’t be appearing at the main conference (e.g. a set of local talks)
+
+* **Where**: The academic component will take place at a local university using conference rooms, lecture theatres and/or outside venues that are accessible to the local organizer.
+
+#### Future years
+
+This year's meetup groups are a simple place to start, but in future years we might consider regional in-person conference hubs that are connected to each other and to the main conference site. A discussion of this possibility is available in:
+
+* Sarabipour, Sarvenaz, et al. (2021). [Changing scientific meetings for the better]( https://www.biorxiv.org/content/10.1101/2020.04.02.022079v4 ) . Nature Human Behaviour.
+
+The [Photonics Online Meetup]( http://photonicsonlinemeetup.org/ ) is one example of a  successful event involving local hubs. For more information see:
+
+* Reshef et al (2020), [How to organize an online conference]( https://arxiv.org/abs/2003.03219 ), Nature Reviews Materials. 
+
+If you have ideas about future local events, please get in touch with any member of the the Local Planning Group ( [Dave Barner](  http://www.ladlab.com/barner ), [Stephanie Denison](  https://uwaterloo.ca/psychology/people-profiles/stephanie-denison ) and [Charles Kemp]( http://charleskemp.com ) ).   
+</div>
+
+
