@@ -1,5 +1,5 @@
 ---
-title: "Meetup Structure"
+title: "Meetup Format"
 output: html_document
 ---
 
@@ -29,7 +29,7 @@ The format and structure of each meetup is at the discretion of the local organi
 
 * **Why**: To facilitate face-to-face interactions and build community among local researchers and students with an interest in cognitive science.
 
-* **What**: Each meetup will include an academic component, a social component, or both. The academic  component could be a poster session or talk in which attendees present their work in person (i.e. the same work that they’ll also be presenting at the main conference). These presentations could be made available in advance of the session using a YouTube playlist curated by the group organizer. The social component might be a lunch or dinner at a nearby restaurant).  
+* **What**: Each meetup will include an academic component, a social component, or both. The academic  component could be a poster session or talk in which attendees present their work in person (i.e. the same work that they’ll also be presenting at the main conference). These presentations could be made available in advance of the session using a YouTube playlist curated by the group organizer. The social component might be a lunch or dinner at a nearby restaurant.  
   
   Depending on timezones and other constraints, additional activities may be possible, including:  
     - A local session in which content from the main conference (e.g. plenary talks) is streamed locally

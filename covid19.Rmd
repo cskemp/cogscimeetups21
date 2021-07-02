@@ -1,5 +1,5 @@
 ---
-title: "Meetup Guidelines"
+title: "COVID-19 Guidelines"
 output: html_document
 ---
 

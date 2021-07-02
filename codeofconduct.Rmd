@@ -1,5 +1,5 @@
 ---
-title: "Meetup Guidelines"
+title: "Code of Conduct"
 output: html_document
 ---
 
