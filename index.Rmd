@@ -19,11 +19,12 @@ output: html_document
 <div class="col-sm-6">
 
 Where local conditions permit, members of the Cognitive Science Society will be organizing meetup groups in conjunction with
-[CogSci 2021](  https://cognitivesciencesociety.org/cogsci-2021/ ). The goal is to facilitate interactions between cognitive scientists who live in the same city, and some suggestions about possible elements of a meetup are provided [here](meetupformat.html ).  Currently meetups are planned in: 
+[CogSci 2021](  https://cognitivesciencesociety.org/cogsci-2021/ ). The goal is to facilitate interactions between students and researchers who live in the same city, and some suggestions about possible elements of a meetup are provided [here](meetupformat.html ).  Currently meetups are planned in: 
 
 
 * [Adelaide]( adelaide.html ) ( organizer [Keith Ransom](  https://its.almostcertainly.me/) )
 * [Boston/Cambridge]( boston.html ) ( organizer [Noga Zaslavsky]( https://www.nogsky.com/) )
+* [Chicago]( chicago.html ) ( organizer [David Abugaber-Bowman]( https://lin.uic.edu/profiles/abugaber-bowman-david/  ) )
 * [Hong Kong]( https://psychology.hku.hk/content/cogsci2021hk/ ) ( organizer [Janet Hsiao]( http://web.hku.hk/~jhsiao/ ) )
 * [Melbourne]( melbourne.html)  ( organizer [Charles Kemp]( http://charleskemp.com ) )
 * [Singapore]( https://desmond-ong.github.io/cogscimeetups21-sg/  )  ( organizer [Desmond Ong ](  http://www.comp.nus.edu.sg/~dongch ) )
@@ -35,5 +36,5 @@ This webpage was developed by a Local Planning Group consisting of [Dave Barner]
 </div>
 <div class="col-sm-6">
 
-![](images/meetup_5.png)
+![](images/meetup_6.png)
 <!-- mapcustomizer.com --> 
