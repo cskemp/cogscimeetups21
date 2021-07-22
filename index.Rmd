@@ -27,7 +27,7 @@ Where local conditions permit, members of the Cognitive Science Society will be 
 * [Chicago]( chicago.html ) ( organizer [David Abugaber-Bowman]( https://lin.uic.edu/profiles/abugaber-bowman-david/  ) )
 * [Hong Kong]( https://psychology.hku.hk/content/cogsci2021hk/ ) ( organizer [Janet Hsiao]( http://web.hku.hk/~jhsiao/ ) )
 * [Melbourne]( https://cskemp.github.io/melbournecogsci21/index.html ) ( organizer [Charles Kemp]( http://charleskemp.com ) )
-* [San Francisco]( sanfrancisco.html)  ( organizers [Anna Leshinskaya]( https://web.sas.upenn.edu/alesh/ ) and [Tobi Gerstenberg]( http://cicl.stanford.edu/member/tobias_gerstenberg/ ) )
+* [San Francisco]( sanfrancisco/index.html)  ( organizers [Anna Leshinskaya]( https://web.sas.upenn.edu/alesh/ ) and [Tobi Gerstenberg]( http://cicl.stanford.edu/member/tobias_gerstenberg/ ) )
 * [Singapore]( https://desmond-ong.github.io/cogscimeetups21-sg/  )  ( organizer [Desmond Ong ](  http://www.comp.nus.edu.sg/~dongch ) )
 
 If you'd like to attend the meetup in one of these places, please follow the link above for more details. If you don't live in one of these places and would like to organize a meetup group in your own city, please contact Charles Kemp at `c.kemp@unimelb.edu.au`. All meetups are expected to follow the meetup  [Code of Conduct](codeofconduct.html) and to respect local policies related to [COVID-19](covid19.html).
